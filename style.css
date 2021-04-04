@@ -1,0 +1,91 @@
+.navbar-brand {
+    color: red;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar {
+    position: fixed;
+    background-color: #1b2021;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-nav li {
+    text-align: center;
+}
+
+.navbar-toggler {
+    color: black;
+    background-color: white;
+    overflow: hidden;
+}
+
+.container-fluid .background {
+    height: 100%;
+}
+
+hr {
+    width: 20%;
+    border-style: dotted none none;
+    border-top-color: #1b2021;
+    height: 0px;
+}
+
+.img-responsive {
+    width: 100%;
+    height: 100%;
+}
+
+.background_section {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/CT9xCjqrhnPD4ivB6B8Hqe.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.background_section h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.background_section p {
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.abouts .row {
+    background-color: #1b2021;
+    color: white;
+}
+
+.abouts a {
+    box-sizing: border-box;
+    text-decoration: none;
+    color: white;
+}
+
+.para {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.para-2 {
+    background-color: #1b2021;
+    color: white;
+    font-size: 20px;
+}
+
+.img-responsive {
+    height: 300px;
+}
